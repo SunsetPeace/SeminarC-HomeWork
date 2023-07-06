@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\dz\\task2\\task2.csproj": {}
+    "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\SeminarC-HomeWork\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\dz\\task2\\task2.csproj": {
+    "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\SeminarC-HomeWork\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\dz\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\SeminarC-HomeWork\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\dz\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\SeminarC-HomeWork\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\SunsetPeace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\dz\\task2\\obj\\",
+        "outputPath": "C:\\Users\\SunsetPeace\\Desktop\\GB\\DZ\\SeminarC-HomeWork\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SunsetPeace\\AppData\\Roaming\\NuGet\\NuGet.Config"
