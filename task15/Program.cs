@@ -12,6 +12,10 @@ string[] daysOfWeek = {
 "Thursday", "Friday", "Saturday", 
 "Sunday"
 };
+if (number == 6 | number == 7)
+{
+    Console.Write($"{daysOfWeek[number]} Это выходной");
+}
 if (number > 7)
 {
     Console.Write("В неделе 7 дней");
@@ -20,7 +24,7 @@ if (number < 0)
 {
     Console.Write("В неделе 7 дней");
 }
-if (number > -1 & number < 8)
+if (number > -1 & number < 6)
 {
-    Console.Write(daysOfWeek[number]);
+    Console.Write($"{daysOfWeek[number]} Не выходной");
 }
