@@ -5,7 +5,7 @@
 
 
 Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 int badNumber = 0;
 int count = 0;
 int res = 0;

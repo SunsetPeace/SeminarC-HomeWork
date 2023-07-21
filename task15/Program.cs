@@ -5,7 +5,7 @@
 // 1 -> нет
 
 Console.Write("Введите номер дня недели: ");
-int number = int.Parse(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 string[] daysOfWeek = {
 "Нулевого дня не бывает",
 "Monday", "Tuesday", "Wednesday", 

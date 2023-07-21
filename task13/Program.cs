@@ -5,7 +5,7 @@
 // 32679 -> 6
 
 Console.Write("Введите трёхзначное число: ");
-int number = int.Parse(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 int example = number / 100;
 if (example != 0)
 {
